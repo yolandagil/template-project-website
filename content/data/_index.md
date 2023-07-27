@@ -1,6 +1,7 @@
 ---
 title: Data
-summary: Here we describe how to add a page to your site.
+summary: Provide a brief introduction to your data science project and the purpose of the datasets. Explain the problem you're trying to solve and the role of data analysis in your project.
+
 date: "2018-06-28T00:00:00Z"
 
 # Optional header image (relative to `assets/media/` folder).
@@ -9,15 +10,20 @@ header:
   image: ""
 ---
 
-## Source of Data:
+## Datasets
 
-- The data was collected by searching for relevant queries such as `male birth control` on Google, with the filter `site:reddit.com`.
-- Around **74** posts over **12** years were identified, and the data was exported using [PRAW](https://praw.readthedocs.io/en/stable/_).
-- The data consists of the submissions with the comments in it. Also, the user history of the commenters was downloaded.
+### Dataset 1: [Name of Dataset]
 
-## Data files
+Describe the first dataset you used in your project. Include information such as the source of the data, the data format (CSV, JSON, etc.), the size of the dataset, and any preprocessing steps you performed.
 
-- submissions : **74** posts (in .pkl files)
-- users: **21,627** user history of those who commented on the submissions (in .pkl files)
-- Out of **41,792** comments read, **5179** comments had deleted user information.
-- **22,099** unique users were found from all submissions.
+Explain the features (columns) present in the dataset and their meanings. Mention any target variables if applicable.
+
+If there are any specific challenges or data quality issues you encountered in this dataset, mention them here.
+
+### Dataset 2: [Name of Dataset]
+
+Describe the second dataset you used in your project (if applicable) following a similar format as above.
+
+## References
+
+List any external sources or references used for acquiring the datasets or understanding the domain for your data science project.
