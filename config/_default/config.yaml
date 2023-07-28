@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Team name # Website name
-baseURL: "https://ckids-datafest.github.io/website-template/" # Website URL
+baseURL: "https://ckids-datafest.github.io/project-website-template" # Website URL
 
 ############################
 ## LANGUAGE
