@@ -2,7 +2,11 @@
 
 The **CDISK Group Template** empowers your research group to easily create a beautiful website with a stunning project.
 
-## Pages
+## How to create a website from the template?
+
+The details are available in a [video tutorial](https://www.youtube.com/watch?v=vnYJDUtObVU)
+
+## How to edit your website?
 
 The following sections describe how to create the various pages available in the **CDISK Group Template**.
 
