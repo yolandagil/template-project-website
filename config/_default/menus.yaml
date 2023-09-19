@@ -4,7 +4,7 @@
 #   The weight parameter defines the order that the links will appear in.
 
 main:
-  - name: Data
+  - name: Data Assessment
     url: data
     weight: 20
   - name: Problem statement
