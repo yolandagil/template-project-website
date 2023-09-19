@@ -69,8 +69,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  #- Director
-  - Advisors
+  - Chairs
 ---
 
 My research focuses on intelligent interfaces for knowledge capture, which is a central topic in our projects concerning knowledge-based planning and problem solving, information analysis and assessment of trust, semantic annotation, agent and software choreography, and community-wide development of knowledge bases. A recent focus is assisting scientists with intelligent systems that analyze data, test hypotheses, and make new discoveries. If you would like to visit us, give a talk, or join our research group, please contact me!
