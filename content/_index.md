@@ -13,7 +13,7 @@ sections:
         filename: welcome.jpg
       text: |
         <br>
-        Our data science project endeavors to tackle [specific problem or objective]. By addressing this critical challenge, our work aims to contribute meaningfully to the [relevant field/industry] and empower the community with data-driven solutions for [specific applications or benefits].
+        Our data science project endeavors to tackle [problem statement]. Our motivation to address this problem stems from [explain the motivation behind the project, e.g., its potential to improve lives, contribute to a specific field, or drive innovation].
 
     design:
       columns: "1"
