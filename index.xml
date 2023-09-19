@@ -1,1 +1,78 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Team name</title><link>https://ckids-datafest.github.io/template-project-website/</link><atom:link href="https://ckids-datafest.github.io/template-project-website/index.xml" rel="self" type="application/rss+xml"/><description>Team name</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><image><url>https://ckids-datafest.github.io/template-project-website/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url><title>Team name</title><link>https://ckids-datafest.github.io/template-project-website/</link></image><item><title/><link>https://ckids-datafest.github.io/template-project-website/</link><pubDate>Mon, 24 Oct 2022 00:00:00 +0000</pubDate><guid>https://ckids-datafest.github.io/template-project-website/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Team name</title><link>https://ckids-datafest.github.io/template-project-website/</link><atom:link href="https://ckids-datafest.github.io/template-project-website/index.xml" rel="self" type="application/rss+xml"/><description>Team name</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate><image><url>https://ckids-datafest.github.io/template-project-website/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url><title>Team name</title><link>https://ckids-datafest.github.io/template-project-website/</link></image><item><title>People</title><link>https://ckids-datafest.github.io/template-project-website/people/</link><pubDate>Mon, 24 Oct 2022 00:00:00 +0000</pubDate><guid>https://ckids-datafest.github.io/template-project-website/people/</guid><description/></item><item><title>Approach</title><link>https://ckids-datafest.github.io/template-project-website/approach/</link><pubDate>Thu, 28 Jun 2018 00:00:00 +0000</pubDate><guid>https://ckids-datafest.github.io/template-project-website/approach/</guid><description>&lt;p>Welcome to the Approach Page of our data science project! In this section, we will detail the methods, techniques, and strategies we plan to employ to address the defined problem and achieve our project&amp;rsquo;s objectives. The Requirements Document serves as a valuable reference, providing insights into the methods and techniques that should be considered when discussing our project&amp;rsquo;s approach.&lt;/p>
+&lt;h2 id="data-collection">Data Collection&lt;/h2>
+&lt;p>Explain the process of data collection for your project. Detail the sources of the datasets you used, any data acquisition methods, and any considerations taken to ensure the data&amp;rsquo;s quality and relevance.&lt;/p>
+&lt;h2 id="data-preprocessing">Data Preprocessing&lt;/h2>
+&lt;p>Describe the steps taken to preprocess the raw data before analysis. This may include data cleaning, handling missing values, dealing with outliers, and any transformations applied to prepare the data for modeling.&lt;/p>
+&lt;h2 id="exploratory-data-analysis-eda">Exploratory Data Analysis (EDA)&lt;/h2>
+&lt;p>Discuss the EDA techniques employed to gain insights into the datasets. Explain how data visualization, summary statistics, and other exploratory techniques helped you understand the data&amp;rsquo;s distribution, patterns, and potential relationships between variables.&lt;/p>
+&lt;h2 id="model-development">Model Development&lt;/h2>
+&lt;p>To address our problem effectively, we&amp;rsquo;ll develop and implement data models. This section will detail the algorithms, libraries, and frameworks we&amp;rsquo;ll utilize for model development, as well as the rationale behind our choices.&lt;/p>
+&lt;h2 id="model-evaluation">Model Evaluation&lt;/h2>
+&lt;p>Discuss the evaluation metrics used to assess the performance of your models. Explain how you validated the models and any cross-validation techniques employed to ensure generalizability.&lt;/p>
+&lt;h2 id="validation-and-testing">Validation and Testing&lt;/h2>
+&lt;p>It&amp;rsquo;s essential to validate our models and analysis rigorously. Describe the procedures and methodologies we&amp;rsquo;ll follow to ensure the reliability of our results.&lt;/p>
+&lt;h2 id="interpretation-of-results">Interpretation of Results&lt;/h2>
+&lt;p>Once we have our results, we&amp;rsquo;ll need to interpret them in the context of the problem. This section will explain how we plan to extract meaningful insights from our analysis.&lt;/p>
+&lt;h2 id="conclusion">Conclusion&lt;/h2>
+&lt;p>Summarize the main approach and methods used to solve the problem questions. Emphasize the importance of these techniques in generating meaningful insights from the data.&lt;/p></description></item><item><title>Data Assessment</title><link>https://ckids-datafest.github.io/template-project-website/data/</link><pubDate>Thu, 28 Jun 2018 00:00:00 +0000</pubDate><guid>https://ckids-datafest.github.io/template-project-website/data/</guid><description>&lt;h2 id="introduction">Introduction&lt;/h2>
+&lt;p>Welcome to the data page of our data science project! In this section, we will discuss the datasets and sources of data that we have collected and will be using for our project.&lt;/p>
+&lt;p>Utilize the &lt;strong>Data Assessment Document&lt;/strong> as a point of reference when working on this section.&lt;/p>
+&lt;h2 id="data-overview-and-examples">Data Overview and Examples&lt;/h2>
+&lt;p>Here, you can provide an overview of the data your website deals with. Explain the types of data, its importance, and perhaps provide some examples or visualizations to make it more understandable.&lt;/p>
+&lt;h2 id="data-accessibility">Data Accessibility&lt;/h2>
+&lt;p>In this section, describe how users can access the data. You can mention whether the data is available for download as files, or if it&amp;rsquo;s stored in databases. Provide links or instructions for accessing the data.&lt;/p>
+&lt;h2 id="data-formats">Data Formats&lt;/h2>
+&lt;p>Explain the formats in which your data is available. Mention common data formats such as CSV, JSON, XML, or any other specific formats relevant to your website.&lt;/p>
+&lt;h2 id="data-challenges">Data Challenges&lt;/h2>
+&lt;p>Discuss the challenges associated with your data. This may include issues like data heterogeneity, data size, and any pre- or post-processing needs. Explain how you are addressing these challenges to make the data more useful for your users.&lt;/p></description></item><item><title>Motivation</title><link>https://ckids-datafest.github.io/template-project-website/motivation/</link><pubDate>Thu, 28 Jun 2018 00:00:00 +0000</pubDate><guid>https://ckids-datafest.github.io/template-project-website/motivation/</guid><description>&lt;h2 id="introduction">Introduction&lt;/h2>
+&lt;p>Welcome to the motivation page of our data science project! In this section, we will explore the driving factors and inspiration behind undertaking this project.&lt;/p>
+&lt;p>Utilize the &lt;strong>Requirement Document&lt;/strong> as a point of reference when working on this section.&lt;/p>
+&lt;h2 id="problem-statement">Problem Statement&lt;/h2>
+&lt;p>Clearly define the problem statement that your data science project aims to address. Explain why this problem is important and the potential impact of solving it. Highlight any real-world applications or implications of your project&amp;rsquo;s results.&lt;/p>
+&lt;h2 id="relevance">Relevance&lt;/h2>
+&lt;p>Discuss the relevance of your project in the context of the field of study or industry it belongs to. Explain how your work contributes to existing knowledge, fills a gap, or builds upon previous research.&lt;/p>
+&lt;h2 id="personal-interest">Personal Interest&lt;/h2>
+&lt;p>Share the personal interest or passion that led you to choose this particular project. Describe any experiences, encounters, or reasons that sparked your curiosity and motivated you to work on this data science endeavor.&lt;/p>
+&lt;h2 id="learning-objectives">Learning Objectives&lt;/h2>
+&lt;p>Outline the specific learning objectives you aimed to achieve through this project. Mention the skills, tools, or techniques you wanted to enhance or acquire during the course of your data analysis.&lt;/p>
+&lt;h2 id="societal-impact">Societal Impact&lt;/h2>
+&lt;p>Discuss the potential societal impact of your data science project&amp;rsquo;s outcomes. How might your findings benefit individuals, communities, or organizations? Consider ethical considerations and the responsible use of data in this context.&lt;/p></description></item><item><title>Problem statement</title><link>https://ckids-datafest.github.io/template-project-website/problem-statement/</link><pubDate>Thu, 28 Jun 2018 00:00:00 +0000</pubDate><guid>https://ckids-datafest.github.io/template-project-website/problem-statement/</guid><description>&lt;h2 id="introduction">Introduction&lt;/h2>
+&lt;p>Welcome to the problem page of our data science project! In this section, we will define and elaborate on the problem statement that our project aims to address.&lt;/p>
+&lt;p>Utilize the &lt;strong>Requirement Document&lt;/strong> as a point of reference when working on this section.&lt;/p>
+&lt;h2 id="motivation">Motivation&lt;/h2>
+&lt;p>Before delving into the problem itself, let&amp;rsquo;s revisit the motivation behind our project. Understanding the driving factors and inspiration behind this endeavor is essential. It provides context for why we&amp;rsquo;re tackling this particular problem.&lt;/p>
+&lt;h2 id="problem">Problem&lt;/h2>
+&lt;p>In this subsection, we&amp;rsquo;ll specifically focus on the problem we are addressing for the current semester. What are the immediate challenges or questions we aim to answer during this timeframe? This will help us establish a clear scope for our project.&lt;/p>
+&lt;ol>
+&lt;li>
+&lt;p>&lt;strong>Question 1&lt;/strong>: Clearly state the first main question you want to address with your data analysis. Describe why this question is important and how its answer can contribute to the project&amp;rsquo;s overall objectives.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>Question 2&lt;/strong>: Present the second main question you aim to answer. Explain its relevance and potential impact on the project&amp;rsquo;s outcomes or real-world applications.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>Question 3&lt;/strong>: If applicable, include a third significant question that complements the previous ones. Detail any dependencies or connections between this question and the others.&lt;/p>
+&lt;/li>
+&lt;/ol>
+&lt;h2 id="scope-and-limitations">Scope and Limitations&lt;/h2>
+&lt;p>Describe the scope of your data science project and any limitations that may impact the analysis and findings. Address any data constraints, time limitations, or other factors that may affect the completeness of your results.&lt;/p>
+&lt;h2 id="conclusion">Conclusion&lt;/h2>
+&lt;p>Summarize the main problem questions presented in this section and emphasize their role in guiding your data science project. Reiterate the importance of finding solutions to these questions through your data analysis.&lt;/p></description></item><item><title>Results</title><link>https://ckids-datafest.github.io/template-project-website/outcomes/</link><pubDate>Thu, 28 Jun 2018 00:00:00 +0000</pubDate><guid>https://ckids-datafest.github.io/template-project-website/outcomes/</guid><description>&lt;p>Welcome to the outcomes page of our data science project! In this section, we will present the results, insights, and findings that we have obtained through our data analysis and the impact of our project.&lt;/p>
+&lt;h2 id="problem-question-1---question-title">Problem Question 1 - [Question Title]&lt;/h2>
+&lt;p>Summarize the results and conclusions related to the first problem question. Present any insights gained from the data analysis and explain how they contribute to addressing the question&amp;rsquo;s objective.&lt;/p>
+&lt;p>If applicable, include visualizations or key metrics that illustrate the outcomes of your analysis.&lt;/p>
+&lt;h2 id="problem-question-2---question-title">Problem Question 2 - [Question Title]&lt;/h2>
+&lt;p>Provide an overview of the results pertaining to the second problem question. Discuss any significant findings and their implications on the project&amp;rsquo;s overall goals.&lt;/p>
+&lt;p>Visualizations or tables can be used to enhance the presentation of your results.&lt;/p>
+&lt;h2 id="problem-question-3---question-title">Problem Question 3 - [Question Title]&lt;/h2>
+&lt;p>If you had a third problem question, present its results and the corresponding analysis here. Elaborate on the relevance of these findings to the broader context of your data science project.&lt;/p>
+&lt;p>Use visuals or data summaries to help communicate the outcomes effectively.&lt;/p>
+&lt;h2 id="discussion-of-findings">Discussion of Findings&lt;/h2>
+&lt;p>Offer a comprehensive discussion of the main findings from your data analysis. Analyze the results in-depth, considering the original problem statement and hypotheses (if any) you posed earlier.&lt;/p>
+&lt;p>Discuss any unexpected observations and potential reasons for these outcomes.&lt;/p>
+&lt;h2 id="key-takeaways">Key Takeaways&lt;/h2>
+&lt;p>Summarize the key takeaways from your data analysis. Highlight the most crucial findings and their impact on your project&amp;rsquo;s objectives.&lt;/p>
+&lt;h2 id="limitations">Limitations&lt;/h2>
+&lt;p>Acknowledge any limitations in your analysis that may affect the validity or generalizability of the results. Discuss how these limitations could be addressed in future work.&lt;/p>
+&lt;h2 id="conclusion">Conclusion&lt;/h2>
+&lt;p>Summarize the results presented in this section and emphasize their significance in answering the problem questions. Reiterate how these results contribute to achieving the project&amp;rsquo;s overall goals.&lt;/p></description></item></channel></rss>
