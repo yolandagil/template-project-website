@@ -25,19 +25,7 @@
 &lt;h2 id="data-formats">Data Formats&lt;/h2>
 &lt;p>Explain the formats in which your data is available. Mention common data formats such as CSV, JSON, XML, or any other specific formats relevant to your website.&lt;/p>
 &lt;h2 id="data-challenges">Data Challenges&lt;/h2>
-&lt;p>Discuss the challenges associated with your data. This may include issues like data heterogeneity, data size, and any pre- or post-processing needs. Explain how you are addressing these challenges to make the data more useful for your users.&lt;/p></description></item><item><title>Motivation</title><link>https://ckids-datafest.github.io/template-project-website/motivation/</link><pubDate>Thu, 28 Jun 2018 00:00:00 +0000</pubDate><guid>https://ckids-datafest.github.io/template-project-website/motivation/</guid><description>&lt;h2 id="introduction">Introduction&lt;/h2>
-&lt;p>Welcome to the motivation page of our data science project! In this section, we will explore the driving factors and inspiration behind undertaking this project.&lt;/p>
-&lt;p>Utilize the &lt;strong>Requirement Document&lt;/strong> as a point of reference when working on this section.&lt;/p>
-&lt;h2 id="problem-statement">Problem Statement&lt;/h2>
-&lt;p>Clearly define the problem statement that your data science project aims to address. Explain why this problem is important and the potential impact of solving it. Highlight any real-world applications or implications of your project&amp;rsquo;s results.&lt;/p>
-&lt;h2 id="relevance">Relevance&lt;/h2>
-&lt;p>Discuss the relevance of your project in the context of the field of study or industry it belongs to. Explain how your work contributes to existing knowledge, fills a gap, or builds upon previous research.&lt;/p>
-&lt;h2 id="personal-interest">Personal Interest&lt;/h2>
-&lt;p>Share the personal interest or passion that led you to choose this particular project. Describe any experiences, encounters, or reasons that sparked your curiosity and motivated you to work on this data science endeavor.&lt;/p>
-&lt;h2 id="learning-objectives">Learning Objectives&lt;/h2>
-&lt;p>Outline the specific learning objectives you aimed to achieve through this project. Mention the skills, tools, or techniques you wanted to enhance or acquire during the course of your data analysis.&lt;/p>
-&lt;h2 id="societal-impact">Societal Impact&lt;/h2>
-&lt;p>Discuss the potential societal impact of your data science project&amp;rsquo;s outcomes. How might your findings benefit individuals, communities, or organizations? Consider ethical considerations and the responsible use of data in this context.&lt;/p></description></item><item><title>Problem statement</title><link>https://ckids-datafest.github.io/template-project-website/problem-statement/</link><pubDate>Thu, 28 Jun 2018 00:00:00 +0000</pubDate><guid>https://ckids-datafest.github.io/template-project-website/problem-statement/</guid><description>&lt;h2 id="introduction">Introduction&lt;/h2>
+&lt;p>Discuss the challenges associated with your data. This may include issues like data heterogeneity, data size, and any pre- or post-processing needs. Explain how you are addressing these challenges to make the data more useful for your users.&lt;/p></description></item><item><title>Problem statement</title><link>https://ckids-datafest.github.io/template-project-website/problem-statement/</link><pubDate>Thu, 28 Jun 2018 00:00:00 +0000</pubDate><guid>https://ckids-datafest.github.io/template-project-website/problem-statement/</guid><description>&lt;h2 id="introduction">Introduction&lt;/h2>
 &lt;p>Welcome to the problem page of our data science project! In this section, we will define and elaborate on the problem statement that our project aims to address.&lt;/p>
 &lt;p>Utilize the &lt;strong>Requirement Document&lt;/strong> as a point of reference when working on this section.&lt;/p>
 &lt;h2 id="motivation">Motivation&lt;/h2>
