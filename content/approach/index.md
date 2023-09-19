@@ -6,7 +6,11 @@ editable: true
 share: false
 ---
 
-Welcome to the Approach Page of our data science project! In this section, we will detail the methods, techniques, and strategies we plan to employ to address the defined problem and achieve our project's objectives. The Requirements Document serves as a valuable reference, providing insights into the methods and techniques that should be considered when discussing our project's approach.
+Welcome to the Approach Page of our data science project! In this section, we will detail the methods, techniques, and strategies we plan to employ to address the defined problem and achieve our project's objectives. 
+
+Utilize the **Requirement Document** as a point of reference when working on this section.
+
+
 
 ## Data Collection
 
