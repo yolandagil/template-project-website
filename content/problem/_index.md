@@ -1,5 +1,5 @@
 ---
-title: Problem
+title: Problem statement
 summary: The main problem questions of the project are
 date: "2018-06-28T00:00:00Z"
 
@@ -8,6 +8,12 @@ header:
   caption: ""
   image: ""
 ---
+
+## Introduction
+
+Welcome to the problem page of our data science project! In this section, we will define and elaborate on the problem statement that our project aims to address.
+
+Utilize the **Requirement Document** as a point of reference when working on this section.
 
 ## Problem Questions
 
@@ -20,14 +26,6 @@ header:
 ## Scope and Limitations
 
 Describe the scope of your data science project and any limitations that may impact the analysis and findings. Address any data constraints, time limitations, or other factors that may affect the completeness of your results.
-
-## Hypotheses
-
-If you have specific hypotheses related to the problem questions, state them here. These hypotheses will guide your data analysis and help you draw meaningful conclusions from the data.
-
-## Importance of Questions
-
-Discuss the significance of the problem questions in the context of your field of study or industry. Explain how the answers to these questions can contribute to existing knowledge or address practical challenges.
 
 ## Conclusion
 

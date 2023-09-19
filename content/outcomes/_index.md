@@ -10,6 +10,8 @@ header:
   image: ""
 ---
 
+Welcome to the outcomes page of our data science project! In this section, we will present the results, insights, and findings that we have obtained through our data analysis and the impact of our project.
+
 ## Problem Question 1 - [Question Title]
 
 Summarize the results and conclusions related to the first problem question. Present any insights gained from the data analysis and explain how they contribute to addressing the question's objective.

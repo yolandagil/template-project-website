@@ -2,6 +2,7 @@
 title: Motivation
 summary: Provide a brief introduction to your data science project and the purpose of the datasets. Explain the problem you're trying to solve and the role of data analysis in your project.
 date: "2018-06-28T00:00:00Z"
+editable: true
 
 # Optional header image (relative to `assets/media/` folder).
 header:
@@ -12,6 +13,8 @@ header:
 ## Introduction
 
 Welcome to the motivation page of our data science project! In this section, we will explore the driving factors and inspiration behind undertaking this project.
+
+Utilize the **Requirement Document** as a point of reference when working on this section.
 
 ## Problem Statement
 

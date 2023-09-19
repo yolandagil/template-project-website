@@ -1,5 +1,5 @@
 ---
-title: Data
+title: Data Assessment
 summary: Provide a brief introduction to your data science project and the purpose of the datasets. Explain the problem you're trying to solve and the role of data analysis in your project.
 
 date: "2018-06-28T00:00:00Z"
@@ -10,20 +10,24 @@ header:
   image: ""
 ---
 
-## Datasets
+## Introduction
 
-### Dataset 1: [Name of Dataset]
+Welcome to the data page of our data science project! In this section, we will discuss the datasets and sources of data that we have collected and will be using for our project.
 
-Describe the first dataset you used in your project. Include information such as the source of the data, the data format (CSV, JSON, etc.), the size of the dataset, and any preprocessing steps you performed.
+Utilize the **Data Assessment Document** as a point of reference when working on this section.
 
-Explain the features (columns) present in the dataset and their meanings. Mention any target variables if applicable.
+## Data Overview and Examples
 
-If there are any specific challenges or data quality issues you encountered in this dataset, mention them here.
+Here, you can provide an overview of the data your website deals with. Explain the types of data, its importance, and perhaps provide some examples or visualizations to make it more understandable.
 
-### Dataset 2: [Name of Dataset]
+## Data Accessibility
 
-Describe the second dataset you used in your project (if applicable) following a similar format as above.
+In this section, describe how users can access the data. You can mention whether the data is available for download as files, or if it's stored in databases. Provide links or instructions for accessing the data.
 
-## References
+## Data Formats
 
-List any external sources or references used for acquiring the datasets or understanding the domain for your data science project.
+Explain the formats in which your data is available. Mention common data formats such as CSV, JSON, XML, or any other specific formats relevant to your website.
+
+## Data Challenges
+
+Discuss the challenges associated with your data. This may include issues like data heterogeneity, data size, and any pre- or post-processing needs. Explain how you are addressing these challenges to make the data more useful for your users.

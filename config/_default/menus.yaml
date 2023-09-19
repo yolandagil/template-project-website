@@ -10,14 +10,14 @@ main:
   - name: Data
     url: data
     weight: 20
-  - name: Problem
+  - name: Problem statement
     url: problem
     weight: 30
   - name: Approach
     url: approach
     weight: 40
   - name: Outcomes
-    url: results
+    url: outcomes
     weight: 50
   - name: People
     url: people
