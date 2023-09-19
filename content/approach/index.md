@@ -1,5 +1,6 @@
 ---
 title: Approach
+editable: true
 summary: This section outlines our data collection, preprocessing steps, exploratory data analysis, feature engineering techniques, machine learning models, and evaluation methods used to address the problem questions, culminating in meaningful insights and results.
 
 date: "2018-06-28T00:00:00Z"
