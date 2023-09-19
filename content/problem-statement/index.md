@@ -3,11 +3,7 @@ title: Problem statement
 summary: The main problem questions of the project are
 date: "2018-06-28T00:00:00Z"
 editable: true
-
-# Optional header image (relative to `assets/media/` folder).
-header:
-  caption: ""
-  image: ""
+share: false
 ---
 
 ## Introduction
