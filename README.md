@@ -11,25 +11,23 @@ The details are available in a [video tutorial](https://www.youtube.com/watch?v=
 The following sections describe how to create the various pages available in the **CDISK Group Template**.
 
 - [Home](#home): The home page is the landing page of your site. It is the first page visitors see when they visit your site's root URL.
-- Motivation: The motivation page is a place to describe the motivation behind your research project.
-- Problem: The problem page is a place to describe the problem you are trying to solve.
+- Problem Statement: The problem statement is a place to describe your motivation the problem you are trying to solve.
 - Data: The data page is a place to describe the data you have collected.
 - Approach: The approach page is a place to describe the approach you have taken to solve the problem.
-- Results: The outcomes page is a place to describe the outcomes of your research project.
+- Outcomes : The outcomes page is a place to describe the outcomes of your research project.
 - Team Members: The team members page is a place to describe the team members of your research project.
 
 ### Edit the pages
 
 To edit the pages, navigate to the `content` folder and edit the corresponding `index.md` file.
 
-| Page       | File                           |
-| ---------- | ------------------------------ |
-| Home       | `content/_index.md`            |
-| Motivation | `content/motivation/_index.md` |
-| Problem    | `content/problem/_index.md`    |
-| Data       | `content/data/_index.md`       |
-| Approach   | `content/approach/_index.md`   |
-| Results    | `content/results/_index.md`    |
+| Page     | File                                                                       |
+| -------- | -------------------------------------------------------------------------- |
+| Home     | [content/\_index.md](content/_index.md)                                    |
+| Problem  | [content/problem-statement/\_index.md](content/problem-statement/index.md) |
+| Data     | [content/data/\_index.md](content/data/index.md)                           |
+| Approach | [content/approach/\_index.md](content/approach/index.md)                   |
+| Outcomes | [content/outcomes/\_index.md](content/outcomes/index.md)                   |
 
 Special pages:
 
