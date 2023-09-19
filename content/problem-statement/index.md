@@ -2,6 +2,7 @@
 title: Problem statement
 summary: The main problem questions of the project are
 date: "2018-06-28T00:00:00Z"
+editable: true
 
 # Optional header image (relative to `assets/media/` folder).
 header:
@@ -15,7 +16,13 @@ Welcome to the problem page of our data science project! In this section, we wil
 
 Utilize the **Requirement Document** as a point of reference when working on this section.
 
-## Problem Questions
+## Motivation
+
+Before delving into the problem itself, let's revisit the motivation behind our project. Understanding the driving factors and inspiration behind this endeavor is essential. It provides context for why we're tackling this particular problem.
+
+## Problem
+
+In this subsection, we'll specifically focus on the problem we are addressing for the current semester. What are the immediate challenges or questions we aim to answer during this timeframe? This will help us establish a clear scope for our project.
 
 1. **Question 1**: Clearly state the first main question you want to address with your data analysis. Describe why this question is important and how its answer can contribute to the project's overall objectives.
 

@@ -1,13 +1,9 @@
 ---
 title: Motivation
 summary: Provide a brief introduction to your data science project and the purpose of the datasets. Explain the problem you're trying to solve and the role of data analysis in your project.
+
 date: "2018-06-28T00:00:00Z"
 editable: true
-
-# Optional header image (relative to `assets/media/` folder).
-header:
-  caption: ""
-  image: ""
 ---
 
 ## Introduction

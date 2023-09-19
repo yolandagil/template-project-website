@@ -4,14 +4,11 @@
 #   The weight parameter defines the order that the links will appear in.
 
 main:
-  - name: Motivation
-    url: motivation
-    weight: 10
   - name: Data
     url: data
     weight: 20
   - name: Problem statement
-    url: problem
+    url: problem-statement
     weight: 30
   - name: Approach
     url: approach

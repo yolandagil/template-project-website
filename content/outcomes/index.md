@@ -1,13 +1,9 @@
 ---
 title: Results
 summary: The main outcomes of the project are [Outcome 1], [Outcome 2], and [Outcome 3].
-
 date: "2018-06-28T00:00:00Z"
-
-# Optional header image (relative to `assets/media/` folder).
-header:
-  caption: ""
-  image: ""
+editable: true
+share: false
 ---
 
 Welcome to the outcomes page of our data science project! In this section, we will present the results, insights, and findings that we have obtained through our data analysis and the impact of our project.

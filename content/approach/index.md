@@ -1,14 +1,9 @@
 ---
 title: Approach
-editable: true
 summary: This section outlines our data collection, preprocessing steps, exploratory data analysis, feature engineering techniques, machine learning models, and evaluation methods used to address the problem questions, culminating in meaningful insights and results.
-
 date: "2018-06-28T00:00:00Z"
-
-# Optional header image (relative to `assets/media/` folder).
-header:
-  caption: ""
-  image: ""
+editable: true
+share: false
 ---
 
 Welcome to the Approach Page of our data science project! In this section, we will detail the methods, techniques, and strategies we plan to employ to address the defined problem and achieve our project's objectives. The Requirements Document serves as a valuable reference, providing insights into the methods and techniques that should be considered when discussing our project's approach.
