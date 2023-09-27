@@ -1,45 +1,29 @@
 ---
 title: Approach
-summary: This section outlines our data collection, preprocessing steps, exploratory data analysis, feature engineering techniques, machine learning models, and evaluation methods used to address the problem questions, culminating in meaningful insights and results.
+summary: Data science methodology used to address the problem, including data preprocessing steps, exploratory data analysis, feature engineering techniques, machine learning models, and evaluation metrics.
 date: "2018-06-28T00:00:00Z"
 editable: true
 share: false
 ---
 
-Welcome to the Approach Page of our data science project! In this section, we will detail the methods, techniques, and strategies we plan to employ to address the defined problem and achieve our project's objectives. 
+This page contains key sections of the **Final Report** for the project focused on the data science methodology used to approach the problem.  It should be no more than 3 pages long.  It should be done after or in combination with the Requirements document.  It should have an initial release after no more than eight weeks into the project, and can serve as an interim project report.  It can be refined as the project progresses and the problem is better understood.  
 
-Utilize the **Requirement Document** as a point of reference when working on this section.
+## Data Quality
 
-
-
-## Data Collection
-
-Explain the process of data collection for your project. Detail the sources of the datasets you used, any data acquisition methods, and any considerations taken to ensure the data's quality and relevance.
+Describe any steps that were used to address any issues concerning the quality of the data.  This may include collecting data quality metrics, discarding subsets of the data, or applying specific techniques for handling missing values, dealing with outliers, etc. 
 
 ## Data Preprocessing
 
-Describe the steps taken to preprocess the raw data before analysis. This may include data cleaning, handling missing values, dealing with outliers, and any transformations applied to prepare the data for modeling.
+Describe the steps taken to preprocess the raw data to prepare it for analysis. This may include data transformations to convert to a required format, feature engineering operations, encoding features as binary, etc.
 
 ## Exploratory Data Analysis (EDA)
 
-Discuss the EDA techniques employed to gain insights into the datasets. Explain how data visualization, summary statistics, and other exploratory techniques helped you understand the data's distribution, patterns, and potential relationships between variables.
+Discuss any techniques employed to gain insights into the data. This could include data visualizations, generating summary statistics, initial analysis, and other exploratory techniques used to understand the data distributions, features, and helpful patterns.
 
 ## Model Development
 
-To address our problem effectively, we'll develop and implement data models. This section will detail the algorithms, libraries, and frameworks we'll utilize for model development, as well as the rationale behind our choices.
+Describe the algorithms, methodology, and architectures used to generate models.  Discuss how models were generated, seeded, and improved.  Show the libraries and frameworks used for model development, as well as the rationale behind those choices.
 
 ## Model Evaluation
 
-Discuss the evaluation metrics used to assess the performance of your models. Explain how you validated the models and any cross-validation techniques employed to ensure generalizability.
-
-## Validation and Testing
-
-It's essential to validate our models and analysis rigorously. Describe the procedures and methodologies we'll follow to ensure the reliability of our results.
-
-## Interpretation of Results
-
-Once we have our results, we'll need to interpret them in the context of the problem. This section will explain how we plan to extract meaningful insights from our analysis.
-
-## Conclusion
-
-Summarize the main approach and methods used to solve the problem questions. Emphasize the importance of these techniques in generating meaningful insights from the data.
+Discuss the evaluation metrics used to assess model performance, and justify those choices based on the problem that the project is addressing. Describe the evaluation techniques used, such as cross-validation, and how undesirable model behaviors, such as overfitting, were avoided.
